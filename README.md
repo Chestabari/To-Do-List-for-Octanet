@@ -2,8 +2,8 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
-
+You can see the website live at: 
+https://github.com/Chestabari/To-Do-List-for-Octanet
 ABOUT THIS PROJECT-:
 
   1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
